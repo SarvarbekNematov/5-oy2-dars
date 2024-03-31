@@ -1,0 +1,47 @@
+.hero{
+    background-image: url(/img/hero__bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 50px;
+}
+.hero__list{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1144px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.hero__item{
+    padding: 16px 21px;
+    border-radius: 50px;
+    background-color: #00000080;
+    color: #fff;
+}
+.hero__block{
+    text-align: center;
+    color: #fff;
+}
+.hero__title{
+    margin-top: 45px;
+    font-family: Helvetica Neue;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 40px;
+    max-width: 411px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.hero__text{
+    font-family: Helvetica Neue;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    max-width: 610px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 16px;
+}
+.hero__search{
+    margin-top: 41px;
+    
+}
